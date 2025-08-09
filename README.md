@@ -98,3 +98,5 @@
 * **협업/관리**: GitHub, Notion, Slack
 
 ---
+
+[← Project 972로 돌아가기](https://github.com/wootae1020/project972)
