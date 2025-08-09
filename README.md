@@ -101,8 +101,8 @@
 
 ## 프로젝트 문서
 
-* [프로젝트 기획서](results/project_ml_proposal.pdf)
-* [프로젝트 발표자료](results/project_ml_presentation.pdf)
+* [프로젝트 기획서](results/ml_project_proposal.pdf)
+* [프로젝트 보고서](results/ml_project_report.pdf)
 
 ---
 
