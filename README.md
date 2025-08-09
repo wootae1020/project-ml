@@ -99,4 +99,11 @@
 
 ---
 
+## 프로젝트 문서
+
+* [프로젝트 기획서](results/project_ml_proposal.pdf)
+* [프로젝트 발표자료](results/project_ml_presentation.pdf)
+
+---
+
 [← Project 972로 돌아가기](https://github.com/wootae1020/project972)
